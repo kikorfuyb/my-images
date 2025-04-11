@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/.../pic2.png" 
+<img src="https://raw.githubusercontent.com/kikorfuyb/my-images/main/pic2.png" 
      alt="pic2" 
      style="width:60%; max-width:800px">
      
