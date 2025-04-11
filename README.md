@@ -1,7 +1,7 @@
  
 ![fig1](https://raw.githubusercontent.com/klkorfuyb/my-images/main/fig1.png)
 ![fig2](https://raw.githubusercontent.com/klkorfuyb/my-images/main/fig2.png)
-<img src="fig2.png" alt="fig2" style="width: 300px; border: 1px solid #ddd; display: block; margin: 0 auto;" />
+<img src="fig2.png" alt="fig2" style="width: 300px; border: 0.5px solid #ddd; display: block; margin: 0 auto;" />
 ![fig3](https://raw.githubusercontent.com/klkorfuyb/my-images/main/fig3.png)
 ![fig4](https://raw.githubusercontent.com/klkorfuyb/my-images/main/fig4.png)
 ![fig5](https://raw.githubusercontent.com/klkorfuyb/my-images/main/fig5.png)
