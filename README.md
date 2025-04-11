@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/kikorfuyb/my-images/main/pic2.png" 
      alt="pic2" 
-     style="width:60%; max-width:800px">
+     style="width:20%; max-width:800px">
      
 ![fig1](https://raw.githubusercontent.com/klkorfuyb/my-images/main/fig1.png)
 ![fig2](https://raw.githubusercontent.com/klkorfuyb/my-images/main/fig2.png)
