@@ -1,4 +1,9 @@
-![png2](https://raw.githubusercontent.com/klkorfuyb/my-images/main/pic2.png)
+
+
+<img src="https://raw.githubusercontent.com/.../pic2.png" 
+     alt="替代文本" 
+     style="width:60%; max-width:800px">
+     
 ![fig1](https://raw.githubusercontent.com/klkorfuyb/my-images/main/fig1.png)
 ![fig2](https://raw.githubusercontent.com/klkorfuyb/my-images/main/fig2.png)
 ![fig3](https://raw.githubusercontent.com/klkorfuyb/my-images/main/fig3.png)
