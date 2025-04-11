@@ -1,7 +1,7 @@
 
 
 <img src="https://raw.githubusercontent.com/.../pic2.png" 
-     alt="替代文本" 
+     alt="pic2" 
      style="width:60%; max-width:800px">
      
 ![fig1](https://raw.githubusercontent.com/klkorfuyb/my-images/main/fig1.png)
